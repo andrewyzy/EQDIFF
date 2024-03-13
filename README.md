@@ -3,7 +3,9 @@ Advancements in drug discovery are hampered by the complexity of extracting mole
 
 ## Animation
 
-TODO
+<video controls autoplay>
+  <source src="animation.mp4" type="video/mp4">
+</video>
 
 ## Poster
 <img src="Poster.png" alt="architecture" width="800"/>
