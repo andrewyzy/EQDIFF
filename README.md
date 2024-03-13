@@ -3,10 +3,11 @@ Advancements in drug discovery are hampered by the complexity of extracting mole
 
 ## Animation
 
-<video autoplay muted playsinline controls width="320" height="240">
+<video autoplay muted playsinline controls width="640" height="480">
   <source src="https://github.com/andrewyzy/EQDIFF/raw/main/animation.mp4" type="video/mp4">
 </video>
 
+https://youtu.be/a4MW804MbEs
 
 ## Poster
 <img src="Poster.png" alt="architecture" width="800"/>
