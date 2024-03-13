@@ -4,7 +4,7 @@ Advancements in drug discovery are hampered by the complexity of extracting mole
 ## Animation
 
 <video autoplay muted playsinline controls>
-  <source src="animation.mp4" type="video/mp4">
+  <source src="https://github.com/andrewyzy/EQDIFF/raw/main/animation.mp4" type="video/mp4">
 </video>
 
 ## Poster
