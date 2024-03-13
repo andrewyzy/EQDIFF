@@ -1,5 +1,4 @@
-# EQDIFF: Advancing Efficient Molecular Structure Extraction: A Novel Computational Framework Leveraging Equivariant Transformers and Diffusion Models for Enhanced Drug Discovery
-
+# EQDIFF
 Advancements in drug discovery are hampered by the complexity of extracting molecular structures from graphs using traditional SO(3) methodologies. Current invariant Graph Neural Networks (GNNs) are limited by their handling of atom representations, leading to scalability issues. The introduction of Equivariant Transformers (EquiformerV2) mitigates these challenges by improving computational efficiency, reducing complexity from O(L⁶) to O(L³) through SO(2) eSCN convolution operations. This approach, combined with machine learning innovations like diffusion models, allows for the efficient prediction of molecular conformations. We propose a novel diffusion architecture called EQDIFF that utilizes these techniques for 3D molecular geometry processing, aiming to enhance ligand-protein interaction understanding and ligand identification for target proteins.
 
 ## Animation
